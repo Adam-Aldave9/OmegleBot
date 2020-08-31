@@ -1,4 +1,7 @@
 # OmegleBot
-This is a bot used to automate messages in omegle
-This program is written in python
+This is a bot used to automate messages in omegle.
+Supported browser is google chrome
+This program is written in python. 
+Requires python modules selenium, time, pynput, and unittest.
+Also requires the chromium webdriver to be installed.
 
