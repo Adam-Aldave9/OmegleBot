@@ -118,7 +118,6 @@ while True:
             continue
         print(" ")
         break
-#add try and except here to catch window close exception
     try:
         if flow == 1: 
             browser = Processes()
